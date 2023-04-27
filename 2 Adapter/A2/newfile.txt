@@ -1,0 +1,5 @@
+#written by FileProperties
+#Wed Oct 20 17:30:45 JST 2021
+depth=32
+width=1024
+height=512

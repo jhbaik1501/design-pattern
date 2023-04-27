@@ -1,0 +1,5 @@
+#written by FileProperties
+#Tue May 24 11:42:08 KST 2022
+depth=32
+height=512
+width=1024
